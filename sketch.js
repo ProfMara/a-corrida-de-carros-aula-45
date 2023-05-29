@@ -28,6 +28,7 @@ function preload() {
 
   //carregar a imagem de vida...
  
+  //carregar a imagem de combustível
 
 }
 
